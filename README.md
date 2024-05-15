@@ -1,3 +1,3 @@
 # love2d-game
 
-this repo is to just train my skill and also for other ppl that want to learn how to do a 2d game
+this repo is just to train my skill and also to help ppl to do a 2d game

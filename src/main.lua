@@ -25,9 +25,6 @@ function love.load()
     gameFont = love.graphics.newFont(30)
 
     love.window.setTitle("by Testers7777")
-    
-    cursor = love.mouse.newCursor("icon.png", 0, 0)
-    love.mouse.setCursor(cursor)
 
     local iconData = love.image.newImageData("icon.png")
     love.window.setIcon(iconData)
